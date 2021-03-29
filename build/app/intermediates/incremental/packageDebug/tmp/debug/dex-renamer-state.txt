@@ -1,0 +1,4 @@
+#Mon Mar 29 16:14:37 IST 2021
+base.0=/home/krish/Flutter/docs/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
